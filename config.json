@@ -1,0 +1,6 @@
+{
+  "recipient_emails": [
+    "your_email@example.com"
+  ],
+  "sensitivity_level": "loose"
+}
